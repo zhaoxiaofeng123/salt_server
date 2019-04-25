@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Encoding=UTF-8
+Name=Pycharm
+Comment=pycharm-2018.1.1                    
+Exec=/usr/local/pycham/bin/pycharm.sh
+Icon=/usr/local/pycham/bin/pycharm.png
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Application;
